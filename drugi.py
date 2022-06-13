@@ -1,2 +1,3 @@
-#Drugi plik s
+#Drugi plik 
 print("Drugi")
+#Jakas zmiana
